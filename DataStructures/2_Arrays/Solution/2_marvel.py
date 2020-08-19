@@ -19,5 +19,4 @@ print(heros)
 heros[1:3]=['doctor strange']
 print(heros)
 # 5. Sort the list in alphabetical order
-heros.sort()
-print(heros)
+print(sorted(heros))      #this will decrease code
